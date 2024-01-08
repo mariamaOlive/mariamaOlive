@@ -3,11 +3,11 @@
 
 <p align="center">I'm a master's student in computer science, curious and with a constant desire to learn. Since my undergraduate studies, I have been fascinated by exploring data, mainly through interactive visualizations. I have recently joined an Erasmus Mundus master program (EDISS), which focuses on developing software systems that integrate data science and machine learning solutions. However, in my journey, I also had the opportunity to work as a mobile developer, mainly iOS.</p>
 
-
+<!--
 [![commits](https://badgen.net/github/commits/EbookFoundation/free-programming-books/main)](https://github.com/EbookFoundation/free-programming-books/commits/main?icon=github&color=green)
 
 
-<!--
+
 **mariamaOlive/mariamaOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
