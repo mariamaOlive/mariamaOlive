@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<p style="text-align: center;">I'm a master's student in computer science, curious and with a constant desire to learn. Since my undergraduate studies, I have been fascinated by exploring data, mainly through interactive visualizations. I have recently joined an Erasmus Mundus master program (EDISS), which focuses on developing software systems that integrate data science and machine learning solutions. However, in my work journey, I also had the opportunity to work as a mobile developer, mainly iOS.</p>
+<p align="center">I'm a master's student in computer science, curious and with a constant desire to learn. Since my undergraduate studies, I have been fascinated by exploring data, mainly through interactive visualizations. I have recently joined an Erasmus Mundus master program (EDISS), which focuses on developing software systems that integrate data science and machine learning solutions. However, in my work journey, I also had the opportunity to work as a mobile developer, mainly iOS.</p>
 
 <!--
 **mariamaOlive/mariamaOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
