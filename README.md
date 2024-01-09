@@ -3,7 +3,7 @@
 
 <p align="center">I'm a master's student in computer science, curious and with a constant desire to learn. Since my undergraduate studies, I have been fascinated by exploring data, mainly through interactive visualizations. I have recently joined an Erasmus Mundus master program (EDISS), which focuses on developing software systems that integrate data science and machine learning solutions. However, in my journey, I also had the opportunity to work as a mobile developer, mainly iOS.</p>
 
-[![GitHub Repos](https://img.shields.io/github/repos/mariamaOlive?style=flat-square)](https://github.com/mariamaOlive)
+[![GitHub Repos](https://img.shields.io/github/repos-count/mariamaOlive?style=flat-square)](https://github.com/mariamaOlive)
 
 <!--
 [![commits](https://badgen.net/github/commits/EbookFoundation/free-programming-books/main)](https://github.com/EbookFoundation/free-programming-books/commits/main?icon=github&color=green)
