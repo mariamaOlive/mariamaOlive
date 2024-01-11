@@ -49,8 +49,7 @@
 
 - **[Firestick Reviews Sentiment Analysis](https://sentiment-analysis-firestick.streamlit.app/)** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
 
-![gif-firestick](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/85ea0b46-7b3d-4c22-9f60-e9ca97684078)
-
+![gif-firestick](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/5c0a59f2-bc57-420f-8d74-5b886158c303)
 
 - **Epiflow** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
 
