@@ -49,11 +49,13 @@
    
 ![gif-visart](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/94234d6a-09e0-48e2-ad1d-c33a626d85e8)
 
-- **[Firestick Reviews Sentiment Analysis](https://github.com/lucascouri2/residencia-mineracao)** [[web app](https://sentiment-analysis-firestick.streamlit.app/)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
+- **[Firestick Reviews Sentiment Analysis](https://github.com/lucascouri2/residencia-mineracao)** [[web app](https://sentiment-analysis-firestick.streamlit.app/)]: Dashboard displaying the sentiment analysis of customers' opinions on Amazon Firestick on the Brazilian website.
 
 ![gif-firestick](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/5c0a59f2-bc57-420f-8d74-5b886158c303)
 
-- **[Epiflow](https://github.com/lucascouri2/residencia-mineracao)**: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
+- **[Epiflow](https://github.com/mariamaOlive/alerta-pandemia)**: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
+
+![gif-epiflow](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/7c33fa73-f8cc-42e9-97ec-bbc4511f5502)
 
 
 
