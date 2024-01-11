@@ -48,7 +48,7 @@
 ### **[Visart](https://github.com/lucascouri2/residencia-vizart)** 
 
 [[web app](https://visart.onrender.com/)]
-A visualization tool that tries to explore an artist's evolution through visualizations.
+A visualization tool that explores an artist's evolution through visualizations.
 ![gif-visart](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/94234d6a-09e0-48e2-ad1d-c33a626d85e8)
 
 ### **[Firestick Reviews Sentiment Analysis](https://github.com/lucascouri2/residencia-mineracao)** 
