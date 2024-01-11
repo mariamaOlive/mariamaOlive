@@ -45,7 +45,9 @@
 
 ## Interesting projects
 
-- **[Visart](https://visart.onrender.com/)** [[repository](https://github.com/lucascouri2/residencia-vizart)]: A visualization tool that tries to explore an artist's evolution through visualizations. 
+- **[Visart](https://visart.onrender.com/)** [[repository](https://github.com/lucascouri2/residencia-vizart)]: A visualization tool that tries to explore an artist's evolution through visualizations.
+   
+![Uploading gif-visart.gif…]()
 
 - **[Firestick Reviews Sentiment Analysis](https://sentiment-analysis-firestick.streamlit.app/)** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
 
