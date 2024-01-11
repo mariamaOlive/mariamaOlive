@@ -48,9 +48,10 @@
 - **[Visart](https://visart.onrender.com/)** [[repository](https://github.com/lucascouri2/residencia-vizart)]: A visualization tool that tries to explore an artist's evolution through visualizations. 
 
 - **[Firestick Reviews Sentiment Analysis](https://sentiment-analysis-firestick.streamlit.app/)** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
-  
-https://github.com/mariamaOlive/mariamaOlive/assets/2599977/4cd2e09c-48c4-493a-b47c-a49fa6b331d7
- 
+
+![gif-firestick](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/dd68a033-ef20-42b3-bfc9-417e2f6f4199)
+
+
 - **Epiflow** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
 
 
