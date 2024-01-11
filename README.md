@@ -45,15 +45,15 @@
 
 ## Interesting projects
 
-- **[Visart](https://visart.onrender.com/)** [[repository](https://github.com/lucascouri2/residencia-vizart)]: A visualization tool that tries to explore an artist's evolution through visualizations.
+- **[Visart](https://github.com/lucascouri2/residencia-vizart)** [[web app](https://visart.onrender.com/)]: A visualization tool that tries to explore an artist's evolution through visualizations.
    
 ![gif-visart](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/94234d6a-09e0-48e2-ad1d-c33a626d85e8)
 
-- **[Firestick Reviews Sentiment Analysis](https://sentiment-analysis-firestick.streamlit.app/)** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
+- **[Firestick Reviews Sentiment Analysis](https://github.com/lucascouri2/residencia-mineracao)** [[web app](https://sentiment-analysis-firestick.streamlit.app/)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
 
 ![gif-firestick](https://github.com/mariamaOlive/mariamaOlive/assets/2599977/5c0a59f2-bc57-420f-8d74-5b886158c303)
 
-- **Epiflow** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
+- **[Epiflow](https://github.com/lucascouri2/residencia-mineracao)**: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
 
 
 
