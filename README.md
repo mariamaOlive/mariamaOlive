@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<p align="center">I'm a master's student in computer science :computer:, always curious and ready to learn. I started exploring data and visualizations during my undergraduate studies. Recently, I joined EDISS, an Erasmus Mundus program that focuses on developing software systems that integrate data science and machine learning solutions. In my work journey, I also had the opportunity to work as a mobile developer :iphone:, mainly iOS and Ionic.</p>
+<p align="center">I'm a master's student in computer science, always curious and ready to learn. I started exploring data and visualizations during my undergraduate studies. Recently, I joined EDISS, an Erasmus Mundus program that focuses on developing software systems that integrate data science and machine learning solutions. In my work journey, I also had the opportunity to work as a mobile developer, mainly iOS and Ionic.</p>
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-##### Used for a long time in the past (might be a bit rusty :stuck_out_tongue:)
+##### Used a lot in the past (might be a bit rusty :stuck_out_tongue:)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
@@ -21,7 +21,7 @@
 
 ## 👩🏽‍💻 About me
 
-** :heart: I love working with**
+#### :heart: I love working with 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
@@ -43,27 +43,14 @@
 - Data engineering material for self-study
 
 
-
 ## Interesting projects
 
+- **[Visart](https://visart.onrender.com/)** [[repository](https://github.com/lucascouri2/residencia-vizart)]: A visualization tool that tries to explore an artist's evolution through visualizations. 
 
-### My GitHub stats
+- **[Firestick Reviews Sentiment Analysis](https://sentiment-analysis-firestick.streamlit.app/)** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: Dashboard displaying the analysis of customers' opinions on Amazon Firestick on the Brazilian website.
 
-<!--
-[![commits](https://badgen.net/github/commits/EbookFoundation/free-programming-books/main)](https://github.com/EbookFoundation/free-programming-books/commits/main?icon=github&color=green)
-
+- **Epiflow** [[repository](https://github.com/lucascouri2/residencia-mineracao)]: An interactive visualization tool that uses human mobility data to calculate potential transmission routes of contagious diseases throughout Brazil.
 
 
-**mariamaOlive/mariamaOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
