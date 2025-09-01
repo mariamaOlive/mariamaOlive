@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<p align="center">Recent graduate of the Erasmus Mundus Master’s focused on Artificial Intelligence, with hands-on experience in software development, applied research, and large language model (LLM)–based multi-agent systems. Thesis research focused on evaluating different LLM frameworks to assess their usage, strengths, and limitations.</p>
+<p align="center">I'm a recent graduate of the Erasmus Mundus Master’s focused on Artificial Intelligence, with hands-on experience in software development, applied research, and large language model (LLM)–based multi-agent systems. My thesis research focused on evaluating different LLM frameworks to assess their usage, strengths, and limitations.</p>
 
 
 
