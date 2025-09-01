@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-<p align="center">I'm a master's student in computer science, always curious and ready to learn. I started exploring data and visualizations during my undergraduate studies. Recently, I joined EDISS, an Erasmus Mundus program that focuses on developing software systems that integrate data science and machine learning solutions. In my work journey, I also had the opportunity to work as a mobile developer, mainly iOS and Ionic.</p>
+<p align="center">Recent graduate of the Erasmus Mundus Master’s focused on Artificial Intelligence, with hands-on experience in software development, applied research, and large language model (LLM)–based multi-agent systems. Thesis research focused on evaluating different LLM frameworks to assess their usage, strengths, and limitations.</p>
 
 
 
@@ -26,8 +26,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
-### 🔭 I’m working on
+### 🔭 I'm working on
 
+- LLM-based multi-agent Frameworks
 - Apnea Forecast in premature babies
 - Explore possibilities for reducing NOx emissions in a recovery boiler
 
