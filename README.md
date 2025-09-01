@@ -35,7 +35,7 @@
 ### 🌱 I’m learning
 
 - Currently I'm trying to improve my skills in data engineering
-- Swedish :yellow_heart: :blue_heart:
+- Italian :heart: :green_heart:
   
 
 ### 🤔 I’m looking for help with
